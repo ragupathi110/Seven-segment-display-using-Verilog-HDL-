@@ -92,6 +92,8 @@ endmodule
 ## Sample Output 
 
 ![7S](https://github.com/user-attachments/assets/f7f97610-b901-445b-a3d2-1a4e4ccbde60)
+![7s 2](https://github.com/user-attachments/assets/30e07680-ad06-4a89-acf5-e5e474bede2a)
+
 
 
 ## Conclusion
